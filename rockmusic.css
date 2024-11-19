@@ -1,0 +1,32 @@
+.container{
+	border: 10px solid black;
+	border-radius: 40px;
+	display: flex;
+	margin: 20px 20px;
+	height: auto;
+}
+
+.column-1{
+	text-align: ;
+	margin: 0px;
+	padding: 20px;
+	flex: 2;
+	height: 1000px;
+	font-size: 11px;	
+}
+.column-2{
+	text-align: ;
+	margin: 0px;
+	padding: 20px;
+	flex: 2;
+	height: 1000px;
+	font-size: 11px;
+}
+.image {
+	width: 500px;
+	height: auto;
+	 border-top-left-radius: 10px;  
+    border-top-right-radius: 50px; 
+    border-bottom-left-radius: 50px; 
+    border-bottom-right-radius: 10px; 
+}
